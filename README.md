@@ -145,18 +145,20 @@ This dashboard enables businesses to:
 
 ---
 
-# 📷 Dashboard Preview
+# 🎥 Dashboard Demo
 
-
-Dashboard/Home.png
-Dashboard/Transactions.png
-Dashboard/Users.png
-```
+![PhonePe Dashboard Demo](PhonePe-Demo.gif)
 
 ---
 
-# 📁 Repository Structure
+▶️ **Watch the full dashboard walkthrough on YouTube:**  
+https://youtu.be/0EKlKVm05_k
 
+
+---
+
+
+# 📁 Repository Structure
 
 📦 PhonePe-Transaction-Analytics
 │
