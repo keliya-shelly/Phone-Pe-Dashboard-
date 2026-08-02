@@ -151,7 +151,7 @@ This dashboard enables businesses to:
 
 ---
 
-▶️ **Watch the full dashboard walkthrough on YouTube:**  
+📺 **Watch the PhonePe Transaction Analytics Dashboard Demo:**  
 https://youtu.be/0EKlKVm05_k
 
 
