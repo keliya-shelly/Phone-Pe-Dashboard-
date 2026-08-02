@@ -157,19 +157,6 @@ https://youtu.be/0EKlKVm05_k
 
 ---
 
-
-# 📁 Repository Structure
-
-📦 PhonePe-Transaction-Analytics
-│
-├── 📄 README.md
-├── 📊 PhonePe Dataset.xlsx
-├── 📷 Dashboard Preview
-└── 📄 PhonePe Dashboard.pbix
-```
-
----
-
 # 🚀 Future Enhancements
 
 - 📡 Real-time transaction monitoring
